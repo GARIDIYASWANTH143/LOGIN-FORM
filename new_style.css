@@ -1,0 +1,23 @@
+.container{
+    margin:30px auto;
+    width:300px;
+    background-color: aliceblue;
+    padding: 20px;
+    border-top: 3px solid rgb(135, 135, 187);
+    border-bottom: 3px solid rgb(134, 134, 185);
+}
+
+input{
+    border: 0;
+    border-bottom: 2px solid grey;
+    margin-left: 10px;
+    padding: 10px;
+}
+
+.submit{
+    border: 0;
+    width: 100px;
+    height: 30px;
+    border-bottom: 2px solid grey;
+    padding: 0;
+}
